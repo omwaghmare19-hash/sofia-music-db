@@ -3,7 +3,14 @@
     "id": "1",
     "title": "tere pyar mein",
     "artist": "Arijit Singh",
-    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/tere_pyar_mein.mp3",
-    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/tere_pyar_mein.jpg"
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/tere_pyar_mein.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/tere_pyar_mein.jpg"
+  },
+  {
+    "id": "2",
+    "title": "billie jean",
+    "artist": "Michael Jackson",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/billie_jean.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/billie_jean.jpg"
   }
 ]
