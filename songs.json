@@ -12,5 +12,12 @@
     "artist": "Michael Jackson",
     "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/billie_jean.mp3",
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/billie_jean.jpg"
-  }
+  },
+  {
+  "id": "3",
+  "title": "kesariya",
+  "artist": "Arijit Singh",
+  "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/kesariya.mp3",
+  "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/kesariya.jpg"
+}
 ]
