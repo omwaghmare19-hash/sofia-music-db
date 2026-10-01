@@ -19,5 +19,19 @@
   "artist": "Arijit Singh",
   "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/kesariya.mp3",
   "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/kesariya.jpg"
-}
+},
+  {
+    "id": "4",
+    "title": "smooth criminal",
+    "artist": "Michael Jackson",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/smooth_criminal.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/smooth_criminal.jpg"
+  },
+  {
+    "id": "5",
+    "title": "bad",
+    "artist": "Michael Jackson",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/bad.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/bad.jpg"
+  }
 ]
