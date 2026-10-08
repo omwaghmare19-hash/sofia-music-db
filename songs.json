@@ -14,12 +14,12 @@
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/billie_jean.jpg"
   },
   {
-  "id": "3",
-  "title": "kesariya",
-  "artist": "Arijit Singh",
-  "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/kesariya.mp3",
-  "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/kesariya.jpg"
-},
+    "id": "3",
+    "title": "kesariya",
+    "artist": "Arijit Singh",
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/kesariya.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/kesariya.jpg"
+  },
   {
     "id": "4",
     "title": "smooth criminal",
@@ -35,35 +35,31 @@
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/bad.jpg"
   },
   {
-    "id": 6,
-    "title": "Pyaar Hota Kayi Baar Hai",
-    "movie": "Tu Jhoothi Main Makkaar",
+    "id": "6",
+    "title": "pyaar hota kayi baar hai",
     "artist": "Arijit Singh",
-    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/pyaar-hota-kayi-baar-hai.mp3",
-    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/pyaar-hota-kayi-baar-hai.jpg"
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/pyaar_hota_kayi_baar_hai.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/pyaar_hota_kayi_baar_hai.jpg"
   },
   {
-    "id": 7,
-    "title": "Show Me The Thumka",
-    "movie": "Tu Jhoothi Main Makkaar",
+    "id": "7",
+    "title": "show me the thumka",
     "artist": "Shashwat Singh, Sunidhi Chauhan",
-    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/show-me-the-thumka.mp3",
-    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/show-me-the-thumka.jpg"
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/show_me_the_thumka.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/show_me_the_thumka.jpg"
   },
   {
-    "id": 8,
-    "title": "O Bedardeya",
-    "movie": "Tu Jhoothi Main Makkaar",
+    "id": "8",
+    "title": "o bedardeya",
     "artist": "Arijit Singh",
-    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/o-bedardeya.mp3",
-    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/o-bedardeya.jpg"
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/o_bedardeya.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/o_bedardeya.jpg"
   },
   {
-    "id": 9,
-    "title": "Jaadui",
-    "movie": "Tu Jhoothi Main Makkaar",
+    "id": "9",
+    "title": "jaadui",
     "artist": "Jubin Nautiyal",
-    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/jaadui.mp3",
-    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/jaadui.jpg"
+    "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/jaadui.mp3",
+    "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/jaadui.jpg"
   }
 ]
