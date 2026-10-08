@@ -33,5 +33,37 @@
     "artist": "Michael Jackson",
     "audioUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/audio/bad.mp3",
     "thumbnailUrl": "https://cdn.jsdelivr.net/gh/omwaghmare19-hash/sofia-music-db@main/images/bad.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Pyaar Hota Kayi Baar Hai",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Arijit Singh",
+    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/pyaar-hota-kayi-baar-hai.mp3",
+    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/pyaar-hota-kayi-baar-hai.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Show Me The Thumka",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Shashwat Singh, Sunidhi Chauhan",
+    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/show-me-the-thumka.mp3",
+    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/show-me-the-thumka.jpg"
+  },
+  {
+    "id": 8,
+    "title": "O Bedardeya",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Arijit Singh",
+    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/o-bedardeya.mp3",
+    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/o-bedardeya.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Jaadui",
+    "movie": "Tu Jhoothi Main Makkaar",
+    "artist": "Jubin Nautiyal",
+    "audioUrl": "https://raw.githubusercontent.com/username/repository-name/main/songs/jaadui.mp3",
+    "thumbnailUrl": "https://raw.githubusercontent.com/username/repository-name/main/thumbnails/jaadui.jpg"
   }
 ]
